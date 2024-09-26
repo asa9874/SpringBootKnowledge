@@ -1,4 +1,4 @@
-# SpringBoot 용어,사용법 모음집
+# SpringBoot 용어 모음집
     너무 많은 SpringBoot의 용어들 하나하나 천천히 공부해나가보자
     내가 찾아볼려고 만든 레포지터리
 
@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6878be51-e36b-4679-922e-da20c132c110">
 </p>
+
+
 
 ### 🍃Spring Boot Framework
 -  🛠Spring Web MVC
